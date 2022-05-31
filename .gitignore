@@ -1,5 +1,6 @@
 *~
 bazel-*
+!bazel-diff-example.sh
 .bazelrc
 .idea
 # Eclipse
